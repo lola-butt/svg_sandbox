@@ -1,5 +1,5 @@
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect x="30" y="30" height="110" width="110" style="stroke:green;fill:red">
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="30" y="30" height="110" width="110" style="stroke:green;fill:none">
     <animateTransform
       attributeName="transform"
       begin="0s"
@@ -9,7 +9,7 @@
       to="360 85 85"
       repeatCount="indefinite" />
   </rect>
-  <rect x="30" y="30" height="110" width="110" style="stroke:lightgreen;">
+  <rect x="30" y="30" height="110" width="110" style="stroke:lightgreen;fill:none">
     <animateTransform
       attributeName="transform"
       begin="0s"
