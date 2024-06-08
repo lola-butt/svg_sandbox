@@ -8,13 +8,15 @@
       from="0 85 85"
       to="360 85 85"
       repeatCount="indefinite" />
-    <animate
-      attributeName="x"
+  </rect>
+  <rect x="30" y="30" height="110" width="110" style="stroke:lightgreen;">
+    <animateTransform
+      attributeName="transform"
       begin="0s"
       dur="10s"
-      from="50"
-      to="100%"
+      type="rotate"
+      from="0 85 85"
+      to="-360 85 85"
       repeatCount="indefinite" />
-  </rect>
-    
+  </rect>  
 </svg>
